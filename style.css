@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+}
+.toolbar{
+    background-color:crimson;
+}
+.toolbar-table{
+    width: 100%;
+}
+.toolbar-table td{
+    text-align: center;
+    width:20%;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.contactus-details{
+    float: "left";
+}
+.slider-img{
+    float: "right";
+}
+.login-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 100px;
+}
+.aboutus-content{
+    padding: 20px;
+}
+.gallery-img{
+    height: 500px;
+    width: 2000px;
+}
+.logo1-img{
+    height: 100px;
+    width: 100px;
+}
+hr{
+    border: 2px solid crimson;
+    width: 75%;
+}
+.logos{
+    height: 400px;
+    width: 400px;
+}
+.shop-item-image{
+    width: 400px;
+    height:300px;
+}
+
